@@ -1,2 +1,2 @@
-# exhibition-schedule
-전시회 일정
+ # 9월 전시회 일정
+
